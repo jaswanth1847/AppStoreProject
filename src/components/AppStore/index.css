@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.AppStore-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-search-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border: 1px solid green;
+  width: 300px;
+}
+
+.input-search-container input {
+  border: 0px;
+  outline: none;
+}
+
+.input-search-container img {
+  height: 30px;
+  width: 30px;
+}
+
+.tabItems-Container {
+  display: flex;
+}
+
+.AppList-items-container {
+  display: flex;
+}
